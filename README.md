@@ -1,6 +1,6 @@
 # Modelos de machine learning aplicados no mercado de ações brasileiro
 
-Este trabalho explora a aplicação de algoritmos de Machine Learning na previsão de tendências de ações brasileiras, com foco no Índice Brasil 50 (IBrX 50 B3. 14-10-23). Para garantir clareza e precisão, utilizamos uma variedade de algoritmos, como Regressão Logística, Classificador de Floresta Aleatória, Máquina de Vetores de Suporte (SVM), Classificador MLP e Classificador K-Vizinhos Mais Próximos (KNN).
+Este trabalho explora a aplicação de algoritmos de Machine Learning na previsão de tendências de ações brasileiras, com foco no Índice Brasil 50 (IBrX 50 B3. 08-09-23). Para garantir clareza e precisão, utilizamos uma variedade de algoritmos, como Regressão Logística, Classificador de Floresta Aleatória, Máquina de Vetores de Suporte (SVM), Classificador MLP e Classificador K-Vizinhos Mais Próximos (KNN).
 
 Durante o desenvolvimento, abordamos a coleta e preparação de dados, enfatizando a escolha de métricas relevantes baseadas na análise técnica para prever tendências. Isso envolveu médias móveis, médias ponderadas por volume, cálculos estocásticos, Índice de Força Relativa (RSI), Média Móvel Convergente e Divergente (MACD) e Bandas de Bollinger.
 
